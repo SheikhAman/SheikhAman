@@ -5,7 +5,7 @@
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: info.skaman@.com
 - 😄 My website: https://sheikh-aman.web.app/
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: I’m about to enter my teenage years.
   
 ### Connect with me:
 <div id="badges">

@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: info.skaman@.com
-####- 😄 My website: https://sheikh-aman.web.app/
-- 😄 My website: https://sheikh-aman.web.app/
+- 😄 My website: https://amanflutterly.online/
 - ⚡ Fun fact: I’m about to enter my teenage years.
   
 ### Connect with me:

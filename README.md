@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: info.skaman@.com
+- 📫 How to reach me: sheikh.aman.work@gmail.com
 - 😄 My website: https://amanflutterly.online/
 - ⚡ Fun fact: I’m about to enter my teenage years.
   

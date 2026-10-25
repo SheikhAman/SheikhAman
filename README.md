@@ -1,39 +1,42 @@
- <h1 align="center">Hi 👋, I'm Sheikh Aman</h1>
+# Hi, I'm Sheikh Aman
+**Senior Flutter Developer (Android-first) · 3.5+ years · Opus Technology Ltd, Dhaka**
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: sheikh.aman.work@gmail.com
-- 😄 My website: https://amanflutterly.online/
-- ⚡ Fun fact: I’m about to enter my teenage years.
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/SheikhAman">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@FlutterCodelab">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <!--<a href="https://www.instagram.com/SheikhAman">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>--> 
-   <a href="https://www.facebook.com/sk.aman.3979">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <!--<a href="https://twitter.com/SheikhAman">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>-->
-</div>
+Building production Flutter apps with 1M+ downloads, offline-first sync, and on-device ML.
 
-### Languages and Tools:
-   <!--[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)-->
-   [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma)](https://skillicons.dev)
+## Featured Projects
 
-![Sheikh Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheikhAman&show_icons=true&theme=dark)
+| Project | Result | Tech |
+| --- | --- | --- |
+| **Online GD (National public-sector app)** | 1M+ downloads, 70% faster filing turnaround | Clean Architecture, BLoC, offline-first sync |
+| **Hello HP** | Sub-2-second WebSocket dispatch, 99.8% uptime | GetX, MVC, WebSocket |
+| **Harmony eKYC** | 85% faster onboarding | On-device ML face liveness, biometrics |
+| **MyICB** | 60 FPS charts | Secure API integration |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhAman&theme=dark)
+## Tech
 
+| Mobile | State & Architecture | Platforms & Practices |
+| --- | --- | --- |
+| Flutter, Dart | Clean Architecture, BLoC, Riverpod, GetX | Firebase, GitHub Actions CI/CD, offline-first sync, SSL pinning, biometrics |
 
-<br>
-⭐️ From [SheikhAman](https://github.com/SheikhAman)
+## On Google Play
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.arise.splitnova)
+
+**SplitNova** — bill splitting app, live on Google Play.
+
+## Open Source
+
+- **widget_of_the_day** — 159+ Flutter widgets
+- **package_of_the_day** — 100 package implementations
+
+Client work is under NDA — outcomes on my portfolio.
+
+**Open to:** Senior Flutter Developer roles — Dhaka or remote.
+Android-first: I deliver the Android build and the Flutter source code.
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-amanflutterly.online-blue)](https://amanflutterly.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheikh_Aman-blue)](https://www.linkedin.com/in/sheikh-aman-96b800326/)
+[![YouTube](https://img.shields.io/badge/YouTube-@fluttercodelab-red)](https://www.youtube.com/@fluttercodelab)
+[![Email](https://img.shields.io/badge/Email-sheikh.aman.work@gmail.com-blue)](mailto:sheikh.aman.work@gmail.com)

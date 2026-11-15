@@ -26,6 +26,7 @@ Building production Flutter apps with 1M+ downloads, offline-first sync, and on-
 
 ## Open Source
 
+- **flutter-getx-mvc-boilerplate** — production-ready Flutter starter, Modular GetX (MVC+S), 54 tests, CI green
 - **widget_of_the_day** — 159+ Flutter widgets
 - **package_of_the_day** — 100 package implementations
 

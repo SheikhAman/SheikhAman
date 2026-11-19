@@ -40,4 +40,5 @@ Android-first: I deliver the Android build and the Flutter source code.
 [![Portfolio](https://img.shields.io/badge/Portfolio-amanflutterly.online-blue)](https://amanflutterly.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheikh_Aman-blue)](https://www.linkedin.com/in/sheikh-aman-96b800326/)
 [![YouTube](https://img.shields.io/badge/YouTube-@fluttercodelab-red)](https://www.youtube.com/@fluttercodelab)
+[![Instagram](https://img.shields.io/badge/Instagram-@sheikhaman.dev-E4405F)](https://www.instagram.com/sheikhaman.dev/)
 [![Email](https://img.shields.io/badge/Email-sheikh.aman.work@gmail.com-blue)](mailto:sheikh.aman.work@gmail.com)
